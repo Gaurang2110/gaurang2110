@@ -1,8 +1,8 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Gaurang Vadher</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<p align="center">I am 👨‍💻 Full Stack Web and App Developer specializing in frontend and backend technologies, with expertise in building scalable web applications. 🌐 Proficient in JavaScript (React.js, Node.js, React-Native) and familiar with cloud services (AWS, Azure). 💡 Passionate about creating intuitive user interfaces and optimizing backend architecture for performance. 🚀 Actively seeking challenging projects and collaborations</p>
+<h3 align="center">A passionate Software Engineer from India</h3>
+<p align="center">I am 👨‍💻 Software Engineer specializing in frontend and backend technologies, with expertise in building scalable web applications. 🌐 Proficient in JavaScript (React.js, Node.js, React-Native) and familiar with cloud services (AWS, Azure). 💡 Passionate about creating intuitive user interfaces and optimizing backend architecture for performance. 🚀 Actively seeking challenging projects and collaborations</p>
 <p align="center"> 
 <a  href="https://visitcount.itsvg.in">
   <img align="center" src="https://visitcount.itsvg.in/api?id=gaurang2110&label=Profile%20Views&color=6&icon=0&pretty=true" />
